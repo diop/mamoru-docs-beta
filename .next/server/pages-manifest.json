@@ -1,0 +1,11 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/": "pages/index.js",
+  "/Daemons/wasm-daemon": "pages/Daemons/wasm-daemon.js",
+  "/Appendix/glossary": "pages/Appendix/glossary.js",
+  "/CLI/instructions": "pages/CLI/instructions.js",
+  "/CLI/introduction": "pages/CLI/introduction.js",
+  "/Appendix/references": "pages/Appendix/references.js"
+}
